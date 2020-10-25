@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FE7679B925408A01001318C5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE7679B825408A01001318C5 /* main.cpp */; };
 		FE7679C72541CFBD001318C5 /* test53.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE7679C52541CFBD001318C5 /* test53.cpp */; };
+		FE7679CB2545D482001318C5 /* test3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE7679C92545D482001318C5 /* test3.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		FE7679B825408A01001318C5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		FE7679C52541CFBD001318C5 /* test53.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test53.cpp; sourceTree = "<group>"; };
 		FE7679C62541CFBD001318C5 /* test53.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = test53.hpp; sourceTree = "<group>"; };
+		FE7679C92545D482001318C5 /* test3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test3.cpp; sourceTree = "<group>"; };
+		FE7679CA2545D482001318C5 /* test3.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = test3.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				FE7679B825408A01001318C5 /* main.cpp */,
 				FE7679C52541CFBD001318C5 /* test53.cpp */,
 				FE7679C62541CFBD001318C5 /* test53.hpp */,
+				FE7679C92545D482001318C5 /* test3.cpp */,
+				FE7679CA2545D482001318C5 /* test3.hpp */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -125,6 +130,7 @@
 			files = (
 				FE7679B925408A01001318C5 /* main.cpp in Sources */,
 				FE7679C72541CFBD001318C5 /* test53.cpp in Sources */,
+				FE7679CB2545D482001318C5 /* test3.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
